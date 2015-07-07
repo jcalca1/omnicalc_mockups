@@ -1,3 +1,9 @@
 body {
 
 }
+
+.panhead{
+  font-size: 12pt;
+}
+
+.dl-horizontal dt{white-space:normal}
